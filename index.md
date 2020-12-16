@@ -1,91 +1,46 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ken Reed 
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## Work
 
+Feburary 2015 - present
 
-## Currently
+Senior Software Engineer at General Dynamics Mission Sytems
+* Developed, tested application level and driver level software for
+  real time systems.
+* Interacted with Systems enginners and other companies to develop coordinated requirements and design.
+* Interacted with SQA to developed test plans and integrate systems in a lab environment.
+* Created and presented material for customer presentations.
+* Participated in documentation, and peer review process.
+* Developed new software as well as maintained legacy software.
+ 
+## Technical Proficiencies
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+* Languages: Rust,C,C++,Java,Javascript,Wasm,Bash,Python
+* Process: Jira,Confluence,Kanban,Agile
+* SW and OS: Linux,Windows,Solarius,Vxworks,Git,IBM Synergy,DOORS
+* Libraries: Opengl GL 2.0, Android NDK, Java FX, 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+Grader/Teaching Assistant
+* Proctored and graded exams and homework for the following courses:
+  *	Graph Theory Summer 2014
+  *	Graph Theory Fall 2014
+  *	Discrete Structures II Fall 2014
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+2015 Bachelors of Science Degree in Computer Science and Bachelors of Arts Degree in Mathematics, Rutgers University, GPA: 3.6
 
-- Sizar
+2012 Associates Degree Computer Science, Middlesex County College, GPA:3.9
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Personal Projects
 
-- Fellow
+[broccoli](https://crates.io/crates/broccoli) - Rust Broad-Phase Collision Detection Library
 
+[egaku2d](https://crates.io/crates/egaku2d) - Rust Opengl ES 2d Graphics Library
 
+[sherp.dev](https://sherp.dev) - Rust/Webassembly lock-step multiplayer demo.
 
-## Awards
+## Contact
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+kenakioreed@gmail.com 413 358 2482
+https://github.com/tiby312
